@@ -12,4 +12,6 @@
 	- twitter-based
 	- movis-based
 	- emotion/personality based
+	- something from CoMoDa
+	
 	
